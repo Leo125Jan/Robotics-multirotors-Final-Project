@@ -35,7 +35,7 @@ width="480" height="270" border="10" /></a>
   " target="_blank"><img src="http://img.youtube.com/vi/XWYoReOaKL8/0.jpg" 
   width="480" height="270" border="10" /></a>
   
-  * Tow Fly Batteries
+  * T Fly Batteries
   
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=yHT9oVhpzJI
   " target="_blank"><img src="http://img.youtube.com/vi/yHT9oVhpzJI/0.jpg" 
